@@ -1,0 +1,9 @@
+Swagger http://localhost:8080/swagger-ui/index.html
+
+Docker: docker compose up --build
+
+Test (en mi caso): & "C:\Program Files\Apache\Maven\apache-maven-3.9.16\bin\mvn.cmd" test
+Test en X pc: mvn test
+
+Verificar rama en github: git branch
+
